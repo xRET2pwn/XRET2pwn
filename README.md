@@ -16,7 +16,7 @@ As Red Teamer, I challenge the security of the internal infrastructure and deplo
 
 As Exploit Developer, I chanllenge the security of the binaries 
 
-As Developer, I developed a C2C that is called ![PickleC2](https://github.com/xRET2pwn/PickleC2).
+As Developer, I developed a C2C that is called [PickleC2](https://github.com/xRET2pwn/PickleC2).
 
 ## Stats
 
